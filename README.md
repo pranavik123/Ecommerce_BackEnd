@@ -1,1 +1,1 @@
-# SampleEcom
+# Ecommerce Spring Boot Application
