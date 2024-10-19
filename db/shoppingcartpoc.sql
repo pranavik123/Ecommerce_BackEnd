@@ -1,0 +1,13 @@
+insert into user(first_name,password,email,year,roles) values("Pavan","123","p@gmail.com","1990-10-29","ROLE_ADMIN");
+insert into user(first_name,password,email,year,roles) values("Priyanka","123","pk@gmail.com","1990-10-29","ROLE_ADMIN");
+insert into user(first_name,password,email,year,roles) values("John","123","pl@gmail.com","1990-10-29","ROLE_USER");
+insert into user(first_name,password,email,year,roles) values("Sophia","123","op@gmail.com","1990-10-29","ROLE_USER");
+insert into user(first_name,password,email,year,roles) values("PK","123","pk123@gmail.com","1990-10-29","ROLE_ADMIN");
+insert into product(prod_name,description,quantity,price) values("Black Shirt","Gucci tshirt","20","11");
+insert into product(prod_name,description,quantity,price) values("Phone","Brand new Iphone","20","110000");
+insert into product(prod_name,description,quantity,price) values("EarPhones","MiEarPhones","20","110");
+select * from product;
+select * from user;
+select * from cart;
+select * from order_details;
+select * from order_table;
